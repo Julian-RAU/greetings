@@ -9,7 +9,7 @@ public class Greetings
         System.out.println("Hello World! wurde 10-mal ausgegeben!");
 
         if (isNiceWeather) {
-            System.out.println("Es ist schönes Wetter!");
+            System.out.println("Super, es ist schönes Wetter!");
         }
     }
 }
